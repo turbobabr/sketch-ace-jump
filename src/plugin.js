@@ -23,12 +23,19 @@ DefineSketchExtension({
         focusOnControl(context,InspectorField.FontWeight);
       }
     },
-    'CommonStyle.color': {
+    'Style.color': {
       name: 'Text/Fill Color',
       shortcut: 'control-shift-c',
       run(context) {
         focusOnControl(context,InspectorField.StyleColor);
       }
     }
+  },
+  menu: {
+    items: [
+      'TextStyle.fontSize',
+      'TextStyle.fontWeight',
+      'Style.color'
+    ]
   }
 });

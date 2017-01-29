@@ -20,11 +20,15 @@ Shortcut: <kbd>ctrl</kbd> + <kbd>s</kbd>
 
 Shortcut: <kbd>ctrl</kbd> + <kbd>w</kbd>
 
-![Screencast](https://github.com/turbobabr/sketch-wanderer/blob/master/docs/intro-screencast.gif?raw=true)
+After focusing on font weight popover use up/down arrow keys or first letter of desired weight to select a required item in the list and hit enter to apply it.
+
+![Screencast](https://github.com/turbobabr/sketch-ace-jump/blob/master/docs/ace-jump-font-weight.gif?raw=true)
 
 ## Text/Fill Color
 
 Shortcut: <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>c</kbd>
+
+Depending on selected layers, command shows a color picker for text color or first visible fill color in `Fills` section.
 
 ![Screencast](https://github.com/turbobabr/sketch-wanderer/blob/master/docs/intro-screencast.gif?raw=true)
 

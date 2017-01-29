@@ -64,7 +64,7 @@ export const Descriptors = {
           return;
         }
 
-        performAction(context,controller.colorButton(),JumpAction.PerformClick);
+        performAction(context,fillControllers.lastObject().colorButton(),JumpAction.PerformClick);
       }
     }
   },
