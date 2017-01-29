@@ -34,7 +34,7 @@ Depending on selected layers, command shows a color picker for text color or fir
 
 ## Feedback
 
-If you discover any issue or have any suggestions for improvement of the plugin, please [open an issue](https://github.com/turbobabr/sketch-wanderer/issues) or find me on twitter [@turbobabr](http://twitter.com/turbobabr).
+If you discover any issue or have any suggestions for improvement of the plugin, please [open an issue](https://github.com/turbobabr/sketch-ace-jump/issues) or find me on twitter [@turbobabr](http://twitter.com/turbobabr).
 
 
 
