@@ -1,32 +1,30 @@
 # Sketch AceJump
 
-A small SketchApp plugin that allows to focus on various inspector's fields like font size, font weight and fill color.
-
-![Screencast](https://github.com/turbobabr/sketch-wanderer/blob/master/docs/intro-screencast.gif?raw=true)
+A small SketchApp plugin that allows to focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.
 
 ## Installation
 
-1. [Download](https://github.com/turbobabr/sketch-wanderer/raw/master/releases/sketch-ace-jump-0.1.0.zip) the plugin.
+1. [Download](https://github.com/turbobabr/sketch-ace-jump/raw/master/releases/sketch-ace-jump-0.1.0.zip) the plugin.
 2. Unpack the archive and double click on `com.turbobabr.ace-jump.sketchplugin` file to install it into Sketch plugins folder.
 3. Enjoy! :)
 
+# Usage
+
 ## Font Size
 
-Shortcut - <kbd>ctrl</kbd> + <kbd>s</kbd>
+Shortcut: <kbd>ctrl</kbd> + <kbd>s</kbd>
 
 ![Screencast](https://github.com/turbobabr/sketch-wanderer/blob/master/docs/intro-screencast.gif?raw=true)
 
 ## Font Weight
 
-Shortcut - <kbd>ctrl</kbd> + <kbd>w</kbd>
-
-Shortcut - `control-s`
+Shortcut: <kbd>ctrl</kbd> + <kbd>w</kbd>
 
 ![Screencast](https://github.com/turbobabr/sketch-wanderer/blob/master/docs/intro-screencast.gif?raw=true)
 
 ## Text/Fill Color
 
-Shortcut - <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>c</kbd>
+Shortcut: <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>c</kbd>
 
 ![Screencast](https://github.com/turbobabr/sketch-wanderer/blob/master/docs/intro-screencast.gif?raw=true)
 

@@ -35,8 +35,8 @@ module.exports = {
   },
   plugins:[
     new SketchFusionExtensionPlugin({
-      buildReleaseVersion: false,
-      autoDeployToSketch: false
+      buildReleaseVersion: true,
+      autoDeployToSketch: true
     }),
     new webpack.optimize.UglifyJsPlugin({ compress: { warnings: false } })
   ]
