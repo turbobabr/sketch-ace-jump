@@ -14,7 +14,7 @@ A small SketchApp plugin that allows to focus on various inspector's fields like
 
 Shortcut: <kbd>ctrl</kbd> + <kbd>s</kbd>
 
-![Screencast](https://github.com/turbobabr/sketch-wanderer/blob/master/docs/intro-screencast.gif?raw=true)
+![Screencast](https://github.com/turbobabr/sketch-ace-jump/blob/master/docs/ace-jump-font-size.gif?raw=true)
 
 ## Font Weight
 
