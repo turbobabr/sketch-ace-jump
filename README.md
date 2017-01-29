@@ -30,7 +30,7 @@ Shortcut: <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>c</kbd>
 
 Depending on selected layers, command shows a color picker for text color or first visible fill color in `Fills` section.
 
-![Screencast](https://github.com/turbobabr/sketch-wanderer/blob/master/docs/intro-screencast.gif?raw=true)
+![Screencast](https://github.com/turbobabr/sketch-ace-jump/blob/master/docs/ace-jump-style-color.gif?raw=true)
 
 ## Feedback
 
