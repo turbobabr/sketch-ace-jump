@@ -1,0 +1,37 @@
+{
+  "name": "sketch-ace-jump",
+  "version": "0.1.0",
+  "description": "Data",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack",
+    "develop": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turbobabr/sketch-ace-jump.git"
+  },
+  "keywords": [
+    "sketch",
+    "extension",
+    "plugin"
+  ],
+  "author": "Andrey Shakhmin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turbobabr/sketch-ace-jump/issues"
+  },
+  "homepage": "https://github.com/turbobabr/sketch-ace-jump#readme",
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-plugin-transform-object-rest-spread": "^6.16.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "lodash": "^4.16.6",
+    "webpack": "^1.13.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.2"
+  }
+}
