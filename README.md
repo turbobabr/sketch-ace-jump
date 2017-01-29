@@ -1,10 +1,10 @@
-# Sketch AceJump
+# Sketch Ace Jump
 
 A small SketchApp plugin that allows to focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.
 
 ## Installation
 
-1. [Download](https://github.com/turbobabr/sketch-ace-jump/raw/master/releases/sketch-ace-jump-0.1.0.zip) the plugin.
+1. [Download](https://github.com/turbobabr/sketch-ace-jump/raw/master/releases/ace-jump-0.1.0.zip) the plugin.
 2. Unpack the archive and double click on `com.turbobabr.ace-jump.sketchplugin` file to install it into Sketch plugins folder.
 3. Enjoy! :)
 
@@ -20,7 +20,7 @@ Shortcut: <kbd>ctrl</kbd> + <kbd>s</kbd>
 
 Shortcut: <kbd>ctrl</kbd> + <kbd>w</kbd>
 
-After focusing on font weight popover use up/down arrow keys or first letter of desired weight to select a required item in the list and hit enter to apply it.
+After focusing on font the weight popover, use up/down arrow keys or first letter of desired a weight to select a required item in the list and hit enter to apply it.
 
 ![Screencast](https://github.com/turbobabr/sketch-ace-jump/blob/master/docs/ace-jump-font-weight.gif?raw=true)
 
