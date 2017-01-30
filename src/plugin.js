@@ -8,6 +8,10 @@ const focusOnControl = (context,id) => {
 DefineSketchExtension({
   name: 'Ace Jump',
   identifier: 'com.turbobabr.ace-jump',
+  description: "Quickly focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.",
+  version: '0.1.0',
+  author: 'Andrey Shakhmin',
+  homepage: 'https://github.com/turbobabr/sketch-ace-jump',
   commands: {
     'TextStyle.fontSize': {
       name: 'Font Size',
@@ -38,4 +42,5 @@ DefineSketchExtension({
       'Style.color'
     ]
   }
+
 });

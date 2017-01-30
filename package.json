@@ -1,7 +1,7 @@
 {
   "name": "sketch-ace-jump",
   "version": "0.1.0",
-  "description": "Data",
+  "description": "Quickly focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.",
   "main": "webpack.config.js",
   "scripts": {
     "build": "webpack",
