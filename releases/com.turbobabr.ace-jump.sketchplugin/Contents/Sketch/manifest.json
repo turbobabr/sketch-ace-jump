@@ -1,0 +1,48 @@
+{
+    "name": "Ace Jump",
+    "identifier": "com.turbobabr.ace-jump",
+    "description": "Quickly focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.",
+    "version": "0.1.0",
+    "author": "Andrey Shakhmin",
+    "homepage": "https://github.com/turbobabr/sketch-ace-jump",
+    "commands": [
+        {
+            "name": "Font Size",
+            "shortcut": "control s",
+            "identifier": "TextStyle.fontSize",
+            "script": "plugin.js",
+            "handlers": {
+                "run": "___TextStyle_fontSize_run_handler_",
+                "actions": {}
+            }
+        },
+        {
+            "name": "Font Weight",
+            "shortcut": "control w",
+            "identifier": "TextStyle.fontWeight",
+            "script": "plugin.js",
+            "handlers": {
+                "run": "___TextStyle_fontWeight_run_handler_",
+                "actions": {}
+            }
+        },
+        {
+            "name": "Text/Fill Color",
+            "shortcut": "control shift c",
+            "identifier": "Style.color",
+            "script": "plugin.js",
+            "handlers": {
+                "run": "___Style_color_run_handler_",
+                "actions": {}
+            }
+        }
+    ],
+    "menu": {
+        "items": [
+            "TextStyle.fontSize",
+            "TextStyle.fontWeight",
+            "Style.color"
+        ]
+    },
+    "disableCocoaScriptPreprocessor": true
+}
