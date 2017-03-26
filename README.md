@@ -2,7 +2,12 @@
 
 A small SketchApp plugin that allows to focus on various inspector's fields like font size, font weight and text/fill color using shortcuts.
 
-## Installation
+## Install with Sketch Runner
+With Sketch Runner, just go to the `install` command and search for `ace jump`. Runner allows you to manage plugins and do much more to speed up your workflow in Sketch. [Download Runner here](http://www.sketchrunner.com).
+
+![Sketch Runner screenshot](https://raw.githubusercontent.com/turbobabr/sketch-ace-jump/master/docs/runner-installation.png)
+
+## Manual Installation
 
 1. [Download](https://github.com/turbobabr/sketch-ace-jump/raw/master/releases/ace-jump-0.1.0.zip) the plugin.
 2. Unpack the archive and double click on `com.turbobabr.ace-jump.sketchplugin` file to install it into Sketch plugins folder.
