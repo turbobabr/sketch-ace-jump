@@ -32,7 +32,7 @@ export const Descriptors = {
     id: InspectorField.FontSize,
     name: 'Font Size',
     controllerClass: ClassName.MSNormalInspector,
-    path: 'layerViewController.layerInspectorControllers',
+    path: 'standardInspectors.layerViewController.layerInspectorControllers',
     sectionController: ClassName.MSTextLayerSection,
     subPath: 'fontSizeField',
     action: JumpAction.MakeFirstResponder
@@ -41,7 +41,7 @@ export const Descriptors = {
     id: InspectorField.FontWeight,
     name: 'Font Weight',
     controllerClass: ClassName.MSNormalInspector,
-    path: 'layerViewController.layerInspectorControllers',
+    path: 'standardInspectors.layerViewController.layerInspectorControllers',
     sectionController: ClassName.MSTextLayerSection,
     subPath: 'fontWeightPopUpButton',
     action: JumpAction.PerformClick
@@ -59,7 +59,7 @@ export const Descriptors = {
           return;
         }
 
-        const fillControllers = currentController.valueForKeyPath('fillViewController.stylePartViewControllers');
+        const fillControllers = currentController.valueForKeyPath('standardInspectors.fillViewController.stylePartViewControllers');
         if(fillControllers.count()<1 || !fillControllers.lastObject()) {
           return;
         }
@@ -72,7 +72,7 @@ export const Descriptors = {
     id: InspectorField.TextColor,
     name: 'Text Color',
     controllerClass: ClassName.MSNormalInspector,
-    path: 'layerViewController.layerInspectorControllers',
+    path: 'standardInspectors.layerViewController.layerInspectorControllers',
     sectionController: 'MSTextLayerSection',
     subPath: 'colorPickerButton',
     action: JumpAction.PerformClick

@@ -9,7 +9,7 @@ With Sketch Runner, just go to the `install` command and search for `ace jump`. 
 
 ## Manual Installation
 
-1. [Download](https://github.com/turbobabr/sketch-ace-jump/raw/master/releases/ace-jump-0.1.0.zip) the plugin.
+1. [Download](https://github.com/turbobabr/sketch-ace-jump/raw/master/releases/ace-jump-0.1.1.zip) the plugin.
 2. Unpack the archive and double click on `com.turbobabr.ace-jump.sketchplugin` file to install it into Sketch plugins folder.
 3. Enjoy! :)
 
